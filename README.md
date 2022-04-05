@@ -19,4 +19,6 @@ To classify whether a borrower will default on his / her loan or not.
     Please refer to `Feature_engineering.ipynb`. 
 
     3. Model and ensemble
-    4. Performance evaluation
+    Lightgbm AUC score: 0.73607
+    Logistic regression AUC score: 0.62076
+    5. Performance evaluation
